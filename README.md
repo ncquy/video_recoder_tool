@@ -40,7 +40,13 @@ This project implements a simple video recorder using OpenCV, allowing you to ca
 
 ## Example Commands
 
-1. **Preview mode**: Start the recorder in preview mode without recording.
+- **Preview mode**: Start the recorder in preview mode without recording.
    ```bash
    python video_recoder_tool.py --camera_id 0 --fps 20
 
+## Demo screenshots:
+   <p align='center'>
+    <img width="800px" src="https://github.com/ncquy/video_recoder_tool/blob/main/demo/img_demo.png"/>
+    <br/>
+    <i> Demo image.</i>
+  </p>
